@@ -12,7 +12,7 @@ import AppTitle from './components/AppTitle.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <AppTitle msg="Vite + Vue" />
   </template>
 
 <style scoped>
